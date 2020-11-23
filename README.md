@@ -23,3 +23,9 @@
 1. Lancer Environement:
 
 ```source env/bin/activate```
+
+2. Lancer Application
+
+```cd mysite```
+
+```python manage.py runserver```
