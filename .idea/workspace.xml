@@ -22,6 +22,7 @@
     <list default="true" id="42ceba84-ee6d-4930-bb28-ce3e20a50187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606148461163</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update models.py">
+      <created>1606206448183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606206448183</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update workspace.xml">
+      <created>1606206540980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606206540980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +115,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up" />
-    <option name="LAST_COMMIT_MESSAGE" value="up" />
+    <MESSAGE value="update models.py" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="415" y="111" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606146805535">
@@ -111,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="734" y="185" width="426" height="477" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1606146791294" />
-    <state x="463" y="132" key="SettingsEditor" timestamp="1606146268865">
+    <state x="462" y="110" key="SettingsEditor" timestamp="1606225068420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="463" y="132" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606146268865" />
+    <state x="462" y="110" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606225068420" />
     <state x="721" y="384" width="540" height="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606052337949">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
