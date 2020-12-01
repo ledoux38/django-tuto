@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ceba84-ee6d-4930-bb28-ce3e20a50187" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606292318264</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add basic views.py">
+      <created>1606321544251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606321544251</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +146,8 @@
     <MESSAGE value="add admin" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="update models.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="update models.py" />
+    <MESSAGE value="add basic views.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add basic views.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-78" y="96" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606320401394">
@@ -174,6 +182,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1897" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606320404303" />
+    <state x="1020" y="243" width="826" height="501" key="IDE.errors.dialog" timestamp="1606810215127">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1020" y="243" width="826" height="501" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606810215127" />
     <state x="146" y="107" key="SettingsEditor" timestamp="1606320181904">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

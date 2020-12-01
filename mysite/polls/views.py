@@ -1,18 +1,22 @@
 from django.http import HttpResponse
 
-
-def index(request):
-    return HttpResponse("Hello, world. You're at the python polls index")
+from .models import Question
 
 
-def detail(request, question_id):
+def index():
+    lastest_question_list: list = Question.objects.order_by('-pub_date')[:5]
+    output = ', '.join([q.question_text for q in lastest_question_list])
+    return HttpResponse(output)
+
+
+def detail(question_id):
     return HttpResponse("You're looking at question %s." % question_id)
 
 
-def result(request, question_id):
-    response = "Your're looking at the results of question %s."
+def result(question_id):
+    response = "You're looking at the results of question %s."
     return HttpResponse(response % question_id)
 
 
-def vote(request, question_id):
+def vote(question_id):
     return HttpResponse("You're voting on question %s." % question_id)
