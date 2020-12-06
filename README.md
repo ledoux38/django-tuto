@@ -29,3 +29,11 @@
 ```cd mysite```
 
 ```python manage.py runserver```
+
+3. migration
+
+``` python manage.py migrate```
+
+4. Creation super user
+
+```python manage.py createsuperuser```

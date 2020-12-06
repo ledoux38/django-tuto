@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="42ceba84-ee6d-4930-bb28-ce3e20a50187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,39 +32,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1keDgjJmxMJYEHwxWcF0APzSGRR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin/python3" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunManager">
-    <configuration name="python3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="django-tuto" />
-      <option name="INTERPRETER_OPTIONS" value="source venv/bin/activate" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bin" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/python3" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,63 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1606052276893</updated>
     </task>
-    <task id="LOCAL-00001" summary="up">
-      <created>1606148461163</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1606148461163</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update models.py">
-      <created>1606206448183</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1606206448183</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update workspace.xml">
-      <created>1606206540980</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1606206540980</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add admin">
-      <created>1606225221737</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1606225221737</updated>
-    </task>
-    <task id="LOCAL-00005" summary="workspace.xml">
-      <created>1606292014105</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1606292014105</updated>
-    </task>
-    <task id="LOCAL-00006" summary="update models.py">
-      <created>1606292318264</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1606292318264</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add basic views.py">
-      <created>1606321544251</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1606321544251</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add tamplate directory">
-      <created>1606811337160</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1606811337160</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,61 +65,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="up" />
-    <MESSAGE value="update workspace.xml" />
-    <MESSAGE value="add admin" />
-    <MESSAGE value="workspace.xml" />
-    <MESSAGE value="update models.py" />
-    <MESSAGE value="add basic views.py" />
-    <MESSAGE value="add tamplate directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add tamplate directory" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="-78" y="96" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606320401394">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="759" y="256" width="463" height="602" key="RollbackChangesDialog" timestamp="1606939215880">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="-78" y="96" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606320401394" />
-    <state x="246" y="149" width="426" height="577" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606320400524">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="246" y="149" width="426" height="577" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606320400524" />
-    <state x="717" y="218" width="456" height="333" key="#com.intellij.tools.ToolEditorDialog" timestamp="1606320253525">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="717" y="218" width="456" height="333" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606320253525" />
-    <state x="734" y="185" width="426" height="477" key="FileChooserDialogImpl" timestamp="1606146791294">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="734" y="185" width="426" height="477" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1606146791294" />
-    <state width="1897" height="284" key="GridCell.Tab.0.bottom" timestamp="1606320404303">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606320404303" />
-    <state width="1897" height="284" key="GridCell.Tab.0.center" timestamp="1606320404303">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606320404303" />
-    <state width="1897" height="284" key="GridCell.Tab.0.left" timestamp="1606320404302">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606320404302" />
-    <state width="1897" height="284" key="GridCell.Tab.0.right" timestamp="1606320404303">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606320404303" />
-    <state x="1020" y="243" width="826" height="501" key="IDE.errors.dialog" timestamp="1606810215127">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1020" y="243" width="826" height="501" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606810215127" />
-    <state x="146" y="107" key="SettingsEditor" timestamp="1606320181904">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="146" y="107" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606320181904" />
-    <state x="852" y="191" width="196" height="434" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1606320254591">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="852" y="191" width="196" height="434" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1080@0.0.1920.1080" timestamp="1606320254591" />
+    <state x="759" y="256" width="463" height="602" key="RollbackChangesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606939215880" />
     <state x="721" y="384" width="540" height="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606052337949">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
