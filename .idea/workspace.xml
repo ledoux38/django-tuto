@@ -22,7 +22,6 @@
     <list default="true" id="42ceba84-ee6d-4930-bb28-ce3e20a50187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607611064342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update detail.html, views.py and workspace.xml">
+      <created>1607691177064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607691177064</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,13 +98,22 @@
     <MESSAGE value="update views" />
     <MESSAGE value="fix" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update detail.html, views.py and workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update detail.html, views.py and workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="139" y="117" width="802" height="705" key="#Plugins" timestamp="1607690923012">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="139" y="117" width="802" height="705" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1607690923012" />
     <state x="759" y="256" width="463" height="602" key="RollbackChangesDialog" timestamp="1606939215880">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="759" y="256" width="463" height="602" key="RollbackChangesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606939215880" />
+    <state x="144" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1607690861167">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="144" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607690861167" />
     <state x="721" y="384" width="540" height="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606052337949">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
