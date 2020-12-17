@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="42ceba84-ee6d-4930-bb28-ce3e20a50187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/manage.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Django" type="PythonConfigurationType" factoryName="Python">
@@ -128,25 +130,46 @@
     <MESSAGE value="update detail.html, views.py and workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="update detail.html, views.py and workspace.xml" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mysite/polls/views.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mysite/polls/views.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mysite/polls/views.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state x="417" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608046646376">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="417" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608046646376" />
+    <state width="922" height="351" key="GridCell.Tab.0.bottom" timestamp="1608201000670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000670" />
+    <state width="922" height="351" key="GridCell.Tab.0.center" timestamp="1608201000669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000669" />
+    <state width="922" height="351" key="GridCell.Tab.0.left" timestamp="1608201000669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000669" />
+    <state width="922" height="351" key="GridCell.Tab.0.right" timestamp="1608201000670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000670" />
+    <state width="922" height="351" key="GridCell.Tab.1.bottom" timestamp="1608201000671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000671" />
+    <state width="922" height="351" key="GridCell.Tab.1.center" timestamp="1608201000670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000670" />
+    <state width="922" height="351" key="GridCell.Tab.1.left" timestamp="1608201000670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000670" />
+    <state width="922" height="351" key="GridCell.Tab.1.right" timestamp="1608201000671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="922" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000671" />
+    <state x="-1" y="132" key="SettingsEditor" timestamp="1608105412393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1" y="132" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1608105412393" />
   </component>
 </project>
