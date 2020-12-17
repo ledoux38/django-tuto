@@ -23,15 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ceba84-ee6d-4930-bb28-ce3e20a50187" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/manage.py" />
@@ -108,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607691177064</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix">
+      <created>1608201392556</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608201392556</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,32 +139,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update views" />
-    <MESSAGE value="fix" />
     <MESSAGE value="update" />
     <MESSAGE value="update detail.html, views.py and workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update detail.html, views.py and workspace.xml" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="417" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608046646376">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="417" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608046646376" />
-    <state width="922" height="351" key="GridCell.Tab.0.bottom" timestamp="1608201000670">
+    <state width="922" height="278" key="GridCell.Tab.0.bottom" timestamp="1608201907763">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="922" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000670" />
-    <state width="922" height="351" key="GridCell.Tab.0.center" timestamp="1608201000669">
+    <state width="922" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608201907763" />
+    <state width="922" height="278" key="GridCell.Tab.0.center" timestamp="1608201907762">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="922" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000669" />
-    <state width="922" height="351" key="GridCell.Tab.0.left" timestamp="1608201000669">
+    <state width="922" height="278" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608201907762" />
+    <state width="922" height="278" key="GridCell.Tab.0.left" timestamp="1608201907762">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="922" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000669" />
-    <state width="922" height="351" key="GridCell.Tab.0.right" timestamp="1608201000670">
+    <state width="922" height="278" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608201907762" />
+    <state width="922" height="278" key="GridCell.Tab.0.right" timestamp="1608201907763">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="922" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608201000670" />
+    <state width="922" height="278" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608201907763" />
     <state width="922" height="351" key="GridCell.Tab.1.bottom" timestamp="1608201000671">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
